@@ -1,0 +1,41 @@
+{
+  "title": "Guia de combinação de drogas",
+  "app": "Aplicativo móvel",
+  "support": "Doações",
+  "drugs": {
+    "lsd": "LSD",
+    "mushrooms": "Cogumelos Mágicos",
+    "dmt": "DMT",
+    "mescaline": "Mescalina",
+    "dox": "DOx",
+    "nbomes": "NBOMes",
+    "2c-x": "2C-x",
+    "2c-t-x": "2C-T-x",
+    "5-meo-xxt": "5-MeO-xxT",
+    "cannabis": "Cannabis",
+    "ketamine": "Cetamina",
+    "mxe": "MXE",
+    "dxm": "DXM",
+    "nitrous": "Óxido Nitroso",
+    "amphetamines": "Anfetaminas",
+    "mdma": "MDMA",
+    "cocaine": "Cocaína",
+    "caffeine": "Cafeína",
+    "alcohol": "Álcool",
+    "ghb/gbl": "GHB/GBL",
+    "opioids": "Opioides",
+    "tramadol": "Tramadol",
+    "benzodiazepines": "Benzodiazepínicos",
+    "maois": "IMAOs",
+    "ssris": "ISRS"
+  },
+  "interactions": {
+    "low risk & synergy": "Baixo risco & sinergia",
+    "low risk & no synergy": "Baixo risco & sem sinergia",
+    "low risk & decrease": "Baixo risco & redução",
+    "caution": "Cuidado",
+    "unsafe": "Inseguro",
+    "dangerous": "Perigoso",
+    "fallback": "Fallback"
+  }
+}
